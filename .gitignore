@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Segredos — a chave da Riot fica só local
+src/dataExtraction/config.json
+
+# Jupyter / saídas geradas
+.ipynb_checkpoints/
+tabela_desempenho_jogador.png
+
+# Ferramentas locais
+.remember/
